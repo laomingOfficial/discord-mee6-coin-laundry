@@ -1,0 +1,12 @@
+{
+  "name": "coin-laundry",
+  "version": "1.0.0",
+  "description": "Auto earn Discord MEE6 coins",
+  "main": "app.js",
+  "author": {
+    "name": "LaoMing"
+  },
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
