@@ -7,13 +7,16 @@
  
 ----
 
+
+
 正確打開方式
 -------
 
 ```
-1. git clone https://github.com/laomingOfficial/discord-mee6-coin-laundry
-2. 進入discord-mee6-coin-laundry文件夾，打開cmd或terminal
-3. 輸入npm install
-4. 修改app.js裡的 【帳號】和【密碼】
-5. 輸入node app.js
+1. 安裝nodejs LTS版本即可
+2. git clone https://github.com/laomingOfficial/discord-mee6-coin-laundry
+3. 進入discord-mee6-coin-laundry文件夾，打開cmd或terminal
+4. 輸入npm install
+5. 修改app.js裡的 【帳號】和【密碼】
+6. 輸入node app.js
 ```
